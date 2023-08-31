@@ -140,7 +140,7 @@ section{
    align-items: center;
    justify-content: center;
    gap:1rem;
-   background: url(../images/heading-bg.webp) no-repeat;
+   background: url(../images/HD-wallpaper-starbucks-coffe.webp) no-repeat;
    background-size: cover;
    background-position: center;
    text-align: center;
@@ -148,7 +148,11 @@ section{
 
 .heading h3{
    font-size: 5rem;
+   justify-content: flex-start; 
+   text-align: left;
    color:var(--black);
+   -webkit-text-stroke: 1px white; 
+    text-shadow: 8px 8px 12px rgba(0, 0, 0, 0.8);
    text-transform: uppercase;
 }
 
@@ -346,7 +350,7 @@ section{
 .home{
    min-height: 70vh;
    background:linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url(../images/home-bg.jpg) no-repeat;
-   background-size: cover;
+   background-size: cover; 
    background-position: center;
    display: flex;
    align-items: center;
@@ -407,6 +411,7 @@ section{
    border-radius: .5rem;
    border:var(--border);
    margin:1rem 0;
+   
    font-size: 2rem;
 }
 
@@ -433,7 +438,7 @@ section{
 }
 
 .about .flex .image img{
-   width: 100%;
+   width: 70%;
 }
 
 .about .flex .content{

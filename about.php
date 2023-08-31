@@ -32,7 +32,7 @@ if(!isset($user_id)){
 <?php include 'header.php'; ?>
 
 <div class="heading">
-   <h3>about us</h3>
+   <h3>About Us</h3>
    <p> <a href="home.php">home</a> / about </p>
 </div>
 
@@ -41,7 +41,7 @@ if(!isset($user_id)){
    <div class="flex">
 
       <div class="image">
-         <img src="images/about-img.jpg" alt="">
+         <img src="images/green.png" alt="">
       </div>
 
       <div class="content">

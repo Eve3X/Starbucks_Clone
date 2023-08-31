@@ -52,8 +52,8 @@ if(isset($_POST['add_to_cart'])){
 <section class="home">
 
    <div class="content">
-      <h3>E-Commerce Website</h3>
-      <p>Database Management System</p>
+      <h3>Starbucks coffee </h3>
+      <p>FULL STACK DEVELOPMENT</p>
       <a href="about.php" class="white-btn">discover more</a>
    </div>
 
@@ -61,7 +61,7 @@ if(isset($_POST['add_to_cart'])){
 
 <section class="products">
 
-   <h1 class="title">latest products</h1>
+   <h1 class="title">LATEST ITEMS</h1>
 
    <div class="box-container">
 
@@ -99,11 +99,11 @@ if(isset($_POST['add_to_cart'])){
    <div class="flex">
 
       <div class="image">
-         <img src="images/about-img.jpg" alt="">
+         <img src="images/starbucksdrinks.jpg" alt="">
       </div>
 
       <div class="content">
-         <h3>about us</h3>
+         <h3>About us</h3>
          <p></p>
          <a href="about.php" class="btn">read more</a>
       </div>

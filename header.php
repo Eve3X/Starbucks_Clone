@@ -16,10 +16,12 @@ if(isset($message)){
    <div class="header-1">
       <div class="flex">
          <div class="share">
-            <a href="#" class="fab fa-facebook-f"></a>
-            <a href="#" class="fab fa-twitter"></a>
-            <a href="#" class="fab fa-instagram"></a>
-            <a href="#" class="fab fa-linkedin"></a>
+            <a href="https://www.facebook.com/starbucksindia"  target="_blank" class="fab fa-facebook-f"></a>
+            <a href="https://twitter.com/starbucksindia" target="_blank" class="fab fa-twitter"></a>
+            <a href="https://www.instagram.com/starbucksindia/"  target="_blank" class="fa-brands fa-instagram"></a>
+            <a href="https://www.starbucks.in/dashboard"  target="_blank" class="fa-solid fa-mug-saucer"></a>
+         
+            
          </div>
          <p> new <a href="login.php">login</a> | <a href="register.php">register</a> </p>
       </div>
@@ -30,11 +32,11 @@ if(isset($message)){
          <a href="home.php" class="logo"></a>
 
          <nav class="navbar">
-            <a href="home.php">home</a>
-            <a href="about.php">about</a>
-            <a href="shop.php">shop</a>
-            <a href="contact.php">contact</a>
-            <a href="orders.php">orders</a>
+            <a href="home.php">Home</a>
+            <a href="about.php">About</a>
+            <a href="shop.php">Shop</a>
+            <a href="contact.php">Review</a>
+            <a href="orders.php">Orders</a>
          </nav>
 
          <div class="icons">
